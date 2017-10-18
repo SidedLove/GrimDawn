@@ -1,30 +1,30 @@
 Hagarond
-Thank you, human.{^n}{^n}If only your friends shared your compassion.
-We shall see.
-Come to watch my misery once more?{^n}{^n}Leave me be, human.
-You're somebody else's problem.
-What a bizarre sight. A free human, here?{^n}{^n}Then perhaps we can come to an understanding. You must know that I no longer carry favor with the Aetherial masters.{^n}{^n}For my actions against the Master of Flesh, I have been imprisoned here until my final judgment.{^n}{^n}Spare me my fate and I shall continue to fight for the survival of the humans. I promise you this.
-Why are you imprisoned?
-As I lived within this host, I learned more of your passions, your joys and sorrows. I learned what it was to be...human, and I found it fascinating.{^n}{^n}Others insisted that I quell what you call emotions, but they offered a euphoria that I had never experienced before.{^n}{^n}This led me to question the methods of my Aetherial brethren. While I had the fortune to possess a human of noble and uplifting spirit, it is clear that many of our kind have possessed less virtuous humans and I see a corruption spreading among many who have led this campaign to conquer your physical realm.{^n}{^n}Unaccustomed to moderating human emotion and sensations, the vices and flaws inherent in some of your kind have become amplified and driven my brethren beyond ruthless efficiency to depravity and deliberate cruelty. I feel that if I could return to the Aetherhold and convey my experiences, higher powers might intervene and cease this invasion. However, the Master of Flesh and other leaders of the invasion do not want the greater Aetherials to know what is happening here and will never let me return.{^n}{^n}Although, even if I could return, I do not know if any intervention would come in time to help you. Time and thought seems to pass much more slowly in the Aetherhold...
-Why can't you simply leave?
-I've been bound here by the Master of Flesh. The crystal barrier between us keeps me trapped.{^n}{^n}Open it, and I shall be free to escape this place, but know that your mercy will not be forgotten.
-You are free, don't make me regret this. (Let him go)
-I take no chances with Aetherials. Die! (Attack)
-I need to think about all this.
-Impending doom?
-Yes. The dead god stirs within the infinite nothingness.{^n}{^n}Should he awaken, we are all undone.
+Cảm ơn [[ms]anh[fs]cô], con người.{^n}{^n}Ước gì đồng loại của [[ms]anh[fs]cô] được chia sẻ một phần lòng từ bi này từ [[ms]anh[fs]cô].
+Chúng ta sẽ thấy.
+Đến để xem nỗi đau của ta một lần nữa ư?{^n}{^n}Tránh xa ta, con người.
+[[ms]Anh[fs]Cô] là vấn đề của người khác.
+Thật là một cảnh tượng kỳ quái. Một con người tự do, ở đây?{^n}{^n}Vậy thì có lẽ chúng ta có thể hiểu được. [[ms]Anh[fs]Cô] phải biết rằng tôi không còn về phe các Aetherial masters nữa.{^n}{^n}Với các hành động chống lại Master of Flesh của tôi, tôi đã bị giam ở đây cho tới khi có phán quyết cuối cùng.{^n}{^n}Tha mạng cho tôi và tôi sẽ tiếp tục chiến đấu cho sự sống còn của con người. Tôi hứa với [[ms]anh[fs]cô] điều này.
+Tại sao anh bị giam cầm?
+Khi tôi sống trong nơi này, tôi được biết nhiều về niềm đam mê của các bạn, niềm vui và nỗi buồn của các bạn. Tôi đã biết được cái gì là...con người, và tôi phát hiện nó thật hấp dẫn.{^n}{^n}Những người khác nhấn mạnh rằng tôi nên gạt bỏ thứ các bạn gọi là cảm xúc, nhưng thứ cảm xúc này đã tạo ra một cảm giác hưng phấn mà tôi chưa bao giờ trải nghiệm trước đó.{^n}{^n}Điều này khiến tôi tự hỏi rằng các đồng tộc Aetherial của tôi đã dùng phương pháp gì để gạt bỏ những cảm xúc này. Trong khi tôi may mắn nhập được vào một con người có tâm hồn cao thượng, thì rõ ràng nhiều đồng loại của tôi đã nhập vào những người thiếu đạo đức và tôi thấy sự biến chất lan rộng trong nhiều kẻ chỉ huy chiến dịch chinh phục thế giới vật chất của [[ms]anh[fs]cô]. {^n}{^n}Không quen với việc điều tiết cảm xúc và sự kích động của con người, những tật xấu và khuyết điểm vốn có trong một số đồng loại của [[ms]anh[fs]cô] đã trở nên khuyếch đại và thúc đẩy các chiến hữu của tôi vượt ra khỏi sự nhẫn tâm để đạt hiệu quả rồi trở nên sa đọa và tàn nhẫn một cách vô lý. Tôi cảm thấy rằng nếu tôi có thể trở lại Aetherhold và truyền tải những kinh nghiệm của mình, các cường giả hùng mạnh hơn có thể can thiệp và chấm dứt cuộc xâm lược này. Tuy nhiên, Master of Flesh và các chỉ huy khác của cuộc xâm lược không muốn các Aetherial hùng mạnh hơn biết những gì đang xảy ra ở đây và sẽ không bao giờ để tôi trở lại. {^n}{^n}Mặc dù, ngay cả khi tôi có thể trở lại, tôi không chắc rằng sẽ có bất kỳ sự can thiệp kịp thời nào để giúp [[ms]anh[fs]cô]. Thời gian và tư duy dường như trôi qua chậm hơn nhiều trong Aetherhold...
+Tại sao anh không thể đơn giản rời đi?
+Tôi đã bị ràng buộc ở đây bởi Master of Flesh. Rào chắn tinh thể giữa chúng ta giam cầm tôi lại. {^n}{^n}Mở nó ra, và tôi sẽ được tự do thoát khỏi nơi này, ngoài ra nên biết rằng lòng thương xót của [[ms]anh[fs]cô] sẽ không bị lãng quên đâu.
+Anh được tự do, đừng làm tôi hối tiếc. (Để anh ta đi)
+Ta không có cơ hội nào dành cho lũ sinh vật Aether. Chết đi! (Tấn công)
+Tôi cần phải suy nghĩ về tất cả những điều này.
+Sự diệt vong sắp xảy đến?
+Phải. Thần chết khuấy đảo khoảng không vô tận. {^n}{^n}Nếu anh tỉnh dậy, tất cả chúng ta sẽ không còn nữa.
 
 
-I take no chances with Aetherials. Die! (Attack)
-I'll deal with you later.
+Ta không có cơ hội nào dành cho lũ sinh vật Aether. Chết đi! (Tấn công)
+Tôi sẽ giải quyết với anh sau.
 
-I take no chances with Aetherials. Die! (Attack)
-I'll deal with you later.
-Why should I believe anything you say?
-The Master of Flesh thinks of humans as little more than braindead accidents. He would never imagine a human coming here willingly, much less prepare a trap for one.{^n}{^n}I am what you see before you, a traitor to my people who has been found. It won't be long before they come for me and return me to the Aether, where my true judgment awaits.
-A traitor?
-You are free, don't make me regret this. (Let him go)
-I take no chances with Aetherials. Die! (Attack)
-I'll deal with you later.
-I take no chances with Aetherials. Die! (Attack)
-I'll deal with you later.
+Ta không có cơ hội nào dành cho lũ sinh vật Aether. Chết đi! (Tấn công)
+Tôi sẽ giải quyết với anh sau.
+Tại sao tôi nên tin vào những gì anh nói?
+The Master of Flesh nghĩ con người chỉ là một thứ tai họa bẩn thiểu. Ông ta sẽ không bao giờ tưởng tượng được một con người chủ động đến được đây, chứ đừng kể đến việc sắp đặt cạm bẫy cho một người.{^n}{^n}Tôi như những gì bạn đã thấy đấy, một kẻ phản bội lại người đã tìm ra mình. Sẽ không lâu trước khi họ đến gặp và áp giải tôi về thế giới Aether, nơi mà sự phán xét thực sự đang chờ đợi tôi.
+Một kẻ phản bội?
+Anh được tự do, đừng làm tôi hối tiếc. (Để anh ta đi)
+Ta không có cơ hội nào dành cho lũ sinh vật Aether. Chết đi! (Tấn công)
+Tôi sẽ giải quyết với anh sau.
+Ta không có cơ hội nào dành cho lũ sinh vật Aether. Chết đi! (Tấn công)
+Tôi sẽ giải quyết với anh sau.
